@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou Marcos!</h1>
-<h3 align="center">Um analista e futuro cientista de dados</h3>
+<h1 align="center">Oi 👋, Eu sou o Marcos!</h1>
+<h3 align="center">Analista de dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosalmeidacouto90&label=Profile%20views&color=0e75b6&style=flat" alt="marcosalmeidacouto90" /> </p>
 
