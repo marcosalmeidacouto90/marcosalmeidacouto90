@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosalmeidacouto90&label=Profile%20views&color=0e75b6&style=flat" alt="marcosalmeidacouto90" /> </p>
 
-- 🔭 Atualmente desenvolvendo projetos e continuamente estudando **...**
+- 🔭 Atualmente desenvolvendo projetos, continuamente estudando e a procura de uma oportunidade como Analista **...**
 
-- 🌱 Atualmente aprendendo **DL, LLM's e AI**
+- 🌱 Aprendendo **DL, LLM's e AI**
 
 - 🤝 Disponível para contratação imediata **...**
 
